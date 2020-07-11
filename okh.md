@@ -3,6 +3,7 @@
 
 Open Know-How is all about sharing knowledge on how to make things. With dozens of open hardware organisations and over 80 content-hosting platforms and thousands of designers sharing open hardware designs, there is little consistency as to how know-how is documented or shared. Makers struggle to locate what they need, not knowing which platform to find it, what the intended use is and therefore struggle to adapt designs. Whilst the knowledge is 'open', it is not freely flowing in the spirit that open-ness suggests.
 
+This is an example edit we should not merge these changes into the standard.
 
 The objective of this specification is to improve the open-ness of know-how for making hardware by improving the discoverability, portability and translatability of knowledge.
 
@@ -1057,6 +1058,7 @@ Note: Country codes as listed in ISO 3166 can be found using the ISO Online Brow
 
 
 
+This is also an example. Don't mege this.
 
 
 [![Creative Commons Licence](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
@@ -1069,8 +1071,6 @@ The Open Know-How Specification by [MakerNet Alliance](https://makernetalliance.
 
 
 Based on a work at [https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow](../../../).
-
-
 
 
 
