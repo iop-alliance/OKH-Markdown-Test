@@ -34,6 +34,7 @@ This specification has been developed by members of the Open Know-How Working Gr
 |Jérémy Bonvoisin|University of Bath|
 |Richard Bowman|University of Bath|
 |Andre Maia Chagas|The University of Sussex, Mozilla Fellow 18/19|
+|Pierre-Alexis Ciavaldini|MakerNet.org|
 |Kaspar Emanuel|Kitspace.org|
 |Martin Häuer|OSE Germany|
 |Brynmor John|Field Ready|
