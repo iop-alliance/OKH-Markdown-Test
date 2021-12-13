@@ -27,7 +27,7 @@ To support the use of know-how by speakers of different languages, translation o
 ### **About the authors**
 #### **Development of specification**
 
-This specification has been developed by members of the Open Know-How Working Group, part of the MakerNet Alliance, and supported by the Shuttleworth Foundation. The following have contributed directly towards the development of this standard:
+This specification has been developed by members of the Open Know-How Working Group, part of the [Internet of Production Alliance](https://www.internetofproduction.org), and supported by the Shuttleworth Foundation. The following have contributed directly towards the development of this standard:
 
 |**Name**|**Organisation**|
 |--|--|
